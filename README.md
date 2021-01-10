@@ -1,6 +1,6 @@
-# EasyText - Frontend (https://message-46849.web.app)
+# EasyText - Frontend
 
-### Frontend code for Easy
+### Frontend code for EasyText
 Made with React and Material-UI.
 
 ## See the deployed version [here](https://message-46849.web.app).
