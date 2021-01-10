@@ -1,0 +1,27 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+  text-align: left;
+}
+
+.user {
+  margin-left: auto;
+  color: white !important;
+  text-align: left !important;
+}
+
+.userCard {
+  background-color: #0b81ff !important;
+  color: white !important;
+  border-radius: 25px !important;
+}
+
+.guestCard {
+  background-color: #e9e9eb !important;
+  border-radius: 25px !important;
+}
+
+.username {
+  padding-left: 12px;
+}
